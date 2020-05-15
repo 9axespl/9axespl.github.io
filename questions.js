@@ -183,7 +183,7 @@ questions =
         ],
         [//-1
             "Marihuana powinna zostać zalegalizowana.",
-            "Ludzie powinni mieć zapewnioną wolność kiedy zawsze, kiedy tylko powoduje to niewielkie ryzyko niebezpieczeństwa.",
+            "Ludzie powinni mieć zapewnioną wolność zawsze, kiedy tylko powoduje to niewielkie ryzyko niebezpieczeństwa.",
             "Rząd nie ma żadnego interesu w zaglądaniu do życia prywatnego większości ludzi."
         ],
         [//-2
