@@ -7,7 +7,7 @@ questions =
         ],
         [//3
             "Prawa stanowe oraz lokalne powinny mieć pierwszeństwo nad prawami narodowymi.",
-            "Ogólnokrajowy rząd nie jest w stanie zrozumieć, czego ludzie potrzrebują.",
+            "Ogólnokrajowy rząd nie jest w stanie zrozumieć, czego ludzie potrzebują.",
             "Ludzie powinni być bardziej lojalni swoim lokalnym stanom, niż swojemu państwu."
         ],
         [//2
