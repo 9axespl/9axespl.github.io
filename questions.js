@@ -179,7 +179,7 @@ questions =
         [//1
             "Władza powinna mieć dostęp do emaili podejrzewanych terrorystów.",
             "Niektóre wolności muszą zostać poddane w celu utrzymania ludzi w bezpieczeństwie.",
-            "Absolutna wolność czyni społeczeństwo niebezpicznym."
+            "Absolutna wolność czyni społeczeństwo niebezpiecznym."
         ],
         [//-1
             "Marihuana powinna zostać zalegalizowana.",
