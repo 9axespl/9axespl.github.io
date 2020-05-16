@@ -355,7 +355,7 @@ questions =
         [//-3
             "Wszyscy powinni mówić w przynajmniej dwóch językach.",
             "Wszyscy ludzie dzielą wspólną tożsamość.",
-            "Nasza kultura byłaby lepsza więcej zmieszanymi innymi kulturami."
+            "Nasza kultura byłaby lepsza z więcej zmieszanymi innymi kulturami."
         ],
         [//-4
             "Rządy powinny być tak samo przejęte obywatelami zza granicy jak tymi w swoich granicach.",
