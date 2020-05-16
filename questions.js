@@ -217,7 +217,7 @@ questions =
             "Podstawowe rzeczy konieczne do życia, takie jak opieka zdrowotna, są prawami."
         ],
         [//1
-            "To nizebędne, żeby rząd interweniował w ekonomię, żeby chronić konsumentów.",
+            "To niezbędne, żeby rząd interweniował w ekonomię, żeby chronić konsumentów.",
             "Ludzie powinni mieć równe szanse na sukces.",
             "Ludzie urodzeni w bogatych rodzinach odnoszą niesprawiedliwy sukces, nawet kiedy nie są wykwalifikowani i nie pracują ciężko."
         ],
