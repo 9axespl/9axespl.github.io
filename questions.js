@@ -128,7 +128,7 @@ questions =
         ],
         [//3
             "Powinna być obowiązkowa służba wojskowa.",
-            "Kraje, które nie służom naszym interesom powinny upaść.",
+            "Kraje, które nie służą naszym interesom powinny upaść.",
             "Tylko ci, którzy służyli w wojsku powinni móc zyskiwać władzę w rządzie."
         ],
         [//2
