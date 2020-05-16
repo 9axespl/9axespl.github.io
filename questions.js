@@ -329,7 +329,7 @@ questions =
         ],
         [//3
             "Tylko wyjątkowo utalentowani imigranci, jeśli już, powinni mieć pozwolenie na wjazd do kraju.",
-            "Jeśli już przyjmujemy migrantów, to ważne rzeby zasymilowali się w naszej kulturze.",
+            "Jeśli już przyjmujemy migrantów, to ważne żeby zasymilowali się w naszej kulturze.",
             "Imigranci nigdy naprawdę nie zadaptują się do naszego stylu życia."
         ],
         [//2
