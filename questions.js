@@ -189,7 +189,7 @@ questions =
         [//-2
             "Aborcja powinna być legalna we wszystkich przypadkach.",
             "Policja powinna być bardziej regulowana.",
-            "Żaden autorytet nie powinien pozostać bezsporny."
+            "Nie powinno być autorytetów bezspornych."
         ],
         [//-3
             "Przestępstwa bez ofiar (takie jak zażywanie narkotyków) nie powinny być przestępstwami w ogóle.",
