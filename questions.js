@@ -112,7 +112,7 @@ questions =
             "To ważne, żeby chronić narodowe kultury."
         ],
         [//-3
-            "Moje państwo powinno trzymać się z dala od afer międzynarodowych.",
+            "Moje państwo powinno trzymać się z dala od relacji międzynarodowych.",
             "Organizacja Narodów Zjednoczonych powinna być zniesiona.",
             "Nikt w innych krajach nie myśli w naszym najlepszym interesie."
         ],
